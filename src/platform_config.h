@@ -1,3 +1,5 @@
+// src/platform_config.h
+
 #ifndef PLATFORM_CONFIG_H
 #define PLATFORM_CONFIG_H
 
@@ -16,6 +18,7 @@
     #define OS_NAME "Unknown platform"
 #endif
 
-using namespace nlohmann;  // JSON namespace used globally
+// Avoid using 'using namespace' in headers
+// Users can use 'using json = nlohmann::json;' in implementation files if needed
 
 #endif // PLATFORM_CONFIG_H
