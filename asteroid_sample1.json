@@ -1,0 +1,35 @@
+{
+    "id": "2154229",
+    "neo_reference_id": "2154229",
+    "name": "154229 (2002 JN97)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2154229",
+    "absolute_magnitude_h": 16.63,
+    "estimated_diameter": {
+        "kilometers": {
+            "estimated_diameter_min": 1.2547435637,
+            "estimated_diameter_max": 2.8056919027
+        },
+        "meters": {
+            "estimated_diameter_min": 1254.7435637,
+            "estimated_diameter_max": 2805.6919027
+        }
+    },
+    "is_potentially_hazardous_asteroid": false,
+    "close_approach_data": [
+        {
+            "close_approach_date": "2024-09-30",
+            "relative_velocity": {
+                "kilometers_per_second": "19.7506484939",
+                "kilometers_per_hour": "71102.336176004"
+            },
+            "miss_distance": {
+                "astronomical": "0.4258320917",
+                "lunar": "165.3",
+                "kilometers": "63953842.156602479",
+                "miles": "39718205.7"
+            },
+            "orbiting_body": "Earth"
+        }
+    ],
+    "is_sentry_object": false
+}

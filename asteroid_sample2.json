@@ -1,0 +1,35 @@
+{
+    "id": "2230111",
+    "neo_reference_id": "2230111",
+    "name": "230111 (2001 BE10)",
+    "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2230111",
+    "absolute_magnitude_h": 19.28,
+    "estimated_diameter": {
+        "kilometers": {
+            "estimated_diameter_min": 0.3703010782,
+            "estimated_diameter_max": 0.7406021564
+        },
+        "meters": {
+            "estimated_diameter_min": 370.3010782,
+            "estimated_diameter_max": 740.6021564
+        }
+    },
+    "is_potentially_hazardous_asteroid": true,
+    "close_approach_data": [
+        {
+            "close_approach_date": "2024-10-15",
+            "relative_velocity": {
+                "kilometers_per_second": "16.6547709893",
+                "kilometers_per_hour": "59943.1975613572"
+            },
+            "miss_distance": {
+                "astronomical": "0.2480430813",
+                "lunar": "96.3",
+                "kilometers": "37023507.7746987215",
+                "miles": "23007632.2"
+            },
+            "orbiting_body": "Earth"
+        }
+    ],
+    "is_sentry_object": false
+}
